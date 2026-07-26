@@ -231,3 +231,5 @@ ________________________________________
 • Gặp Địa Không, Địa Kiếp hoặc Không Vong: dễ cô độc, sự nghiệp nhiều lần thăng trầm, duyên với người thân khá bạc.
 
 • Mệnh gặp Tuần Triệt, hoặc các đại vận ở các tuổi dựng nghiệp gặp phải Tuần Triệt, đương số chỉ có thể đi làm thuê, có làm lãnh đạo cũng là lãnh đạo dưới trướng chứ không phải ông chủ thực sự, đó là cách mệnh của người có giỏi giang nhưng cũng không gặp thời. Hội nhiều cát tinh thì là người không thích công danh lợi lộc, chính họ cũng muốn sự an nhàn chứ không thích tranh đấu.
+
+[Mục lục](../README.md)

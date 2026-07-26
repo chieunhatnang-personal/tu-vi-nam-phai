@@ -163,3 +163,5 @@ Tuy nhiên, điểm yếu lớn nhất của Thiên Phủ là sự thiếu quy�
 Nếu khắc phục được những điểm yếu này thì Thiên Phủ là một trong những cách mệnh dễ có cuộc sống ổn định, sung túc và hạnh phúc.
 Những nội dung trên chỉ phản ánh tính chất cơ bản của sao Thiên Phủ đơn thủ khi tọa Mệnh. Trong thực tế, luận đoán còn phải xét thêm tổ hợp với các bộ chính tinh khác, các phụ tinh đi kèm, Tuần - Triệt, Tứ Hóa và toàn bộ bố cục lá số mới có thể đưa ra kết luận chính xác.
 Ở các bài tiếp theo, chúng ta tiếp tục tìm hiểu các chính tinh còn lại để có cái nhìn tổng quan về tính chất cơ bản và phân biệt sự khác nhau cơ bản giữa các chính tinh đó. Từ đó tạo thành bức tranh tổng thể về 14 chính tinh, tạo nền tảng cơ bản để học phần luận về chi tiết của từng sao trong phần CHƯ TINH LUẬN sau này.
+
+[Mục lục](../README.md)

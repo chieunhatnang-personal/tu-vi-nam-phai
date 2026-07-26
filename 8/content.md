@@ -107,3 +107,5 @@ Tuy nhiên, điểm yếu lớn nhất của Thái Dương là quá coi trọng 
 ________________________________________
 Lưu ý: Những tính chất trên chỉ phản ánh ý nghĩa cơ bản của sao Thái Dương đơn thủ khi tọa thủ cung Mệnh. Trong thực tế luận đoán còn phải xét thêm bộ cách và vị trí của Thái Dương ở 12 cung (ví dụ Thái Dương cư ở cung Ngọ được gọi là Nhật Lệ Trung Thiên, cung Hợi là Nhật Trầm Thủy Bể...), xét thêm các phụ tinh đi kèm, Tuần - Triệt, Tứ Hóa và toàn bộ bố cục lá số mới có thể đưa ra kết luận chính xác. 
 Đặc biệt, Thái Dương rất nhạy cảm với các sát tinh và ám tinh. Khi bị phá cách, những ưu điểm như chính trực, tự tin và lãnh đạo có thể biến thành kiêu ngạo, độc đoán, háo danh hoặc cực đoan. Các bộ cách cụ thể của sao Thái Dương sẽ được mình trình bày đầy đủ trong phần CHƯ TINH LUẬN sau này.
+
+[Mục lục](../README.md)

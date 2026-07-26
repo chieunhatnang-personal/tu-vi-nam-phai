@@ -71,3 +71,5 @@ Qua bài học hôm nay, các bạn chỉ cần ghi nhớ hai nguyên tắc cơ 
 • Thứ nhất, mỗi Huyền Đồ sẽ hình thành những bộ cách riêng, được đặt tên theo các chính tinh nằm trong tam hợp. 
 • Thứ hai, tên của Mệnh được gọi theo chính tinh đang tọa thủ tại cung Mệnh. Riêng trường hợp Vô Chính Diệu thì lấy chính tinh của cung xung chiếu để gọi tên. 
 Ở bài tiếp theo, chúng ta sẽ tiếp tục tìm hiểu các bộ cách của những Huyền Đồ còn lại. Khi học hết 12 Huyền Đồ, các bạn sẽ nhận ra rằng hầu như mọi lá số Tử Vi đều có thể được nhận diện rất nhanh chỉ bằng cách xác định mình đang thuộc bộ cách nào. Đây cũng là bước đầu tiên để tiến tới việc luận giải lá số một cách hệ thống và chính xác.
+
+[Mục lục](../README.md)

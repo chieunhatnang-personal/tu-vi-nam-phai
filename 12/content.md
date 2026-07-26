@@ -107,3 +107,5 @@ Họ phù hợp với những môi trường có tính cạnh tranh, cần nhi�
 Bên cạnh đó, Liêm Trinh cũng là một chính tinh mang tính đào hoa khá mạnh. Khi được cát tinh hỗ trợ, sức hút này sẽ giúp mở rộng quan hệ xã hội và tạo nhiều cơ hội phát triển. Nhưng nếu gặp sát tinh phá cách thì cũng rất dễ phát sinh thị phi, cám dỗ về tình cảm hoặc tiền bạc.
 Điểm mạnh nhất của Liêm Trinh là lòng nhiệt huyết và tinh thần cống hiến. Điểm yếu lớn nhất lại là sự nóng nảy, hiếu thắng và khó kiểm soát cảm xúc.
 Nếu biết tu dưỡng đạo đức, giữ được sự liêm chính đúng như tên gọi của chính tinh này, biết dùng sự quyết liệt để bảo vệ lẽ phải thay vì bảo vệ cái tôi, biết tiết chế dục vọng và rèn luyện sự bình tĩnh thì Liêm Trinh sẽ trở thành một trong những chính tinh có khả năng tạo dựng sự nghiệp lớn, được nhiều người kính trọng và để lại nhiều giá trị cho xã hội.
+
+[Mục lục](../README.md)

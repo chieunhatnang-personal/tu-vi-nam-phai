@@ -93,3 +93,5 @@ Thứ tư, trân trọng những gì mình đang có.
 - Bản chất của ngôi sao này luôn hướng về những điều mới mẻ. Nếu không biết trân trọng hiện tại, rất dễ vì chạy theo cái mới mà đánh mất những điều quý giá nhất trong cuộc đời.
 Tính chất của mệnh Tham Lang cũng sẽ thay đổi phụ thuộc vào từng bộ cách, chính tinh đi kèm, hệ thống phụ tinh và tuần triệt. 
 Ví dụ Tham Lang gặp triệt thì các tính đào hoa chưa chắc đã phát lộ, ngược lại là người rất chung thủy, các bộ cách cụ thể mình sẽ trình bày chi tiết sau này, mời các bạn tiếp tục đón đọc!
+
+[Mục lục](../README.md)

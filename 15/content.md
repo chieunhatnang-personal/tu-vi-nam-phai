@@ -79,3 +79,5 @@ TỔNG KẾT BÀI SỐ 15
 Qua những phân tích trên có thể thấy, Thiên Lương là một trong những chính tinh mang nhiều sự giản dị và đạo đức trong khoa Tử Vi. Đây là mẫu người sống ngay thẳng, trọng nghĩa khinh tài, có lòng từ bi, luôn mong muốn đem kiến thức và khả năng của mình để giúp ích cho người khác. Họ không thích tranh giành, không giỏi thủ đoạn, nhưng lại rất dễ nhận được sự kính trọng nhờ nhân phẩm và uy tín của bản thân.
 Người có Thiên Lương thủ Mệnh thường không phải kiểu phát tài quá sớm hay thành công bằng những con đường đầy mạo hiểm. Con đường của họ là lấy đức làm gốc, lấy uy tín làm nền, lấy sự cống hiến để đổi lấy thành tựu. Chính vì vậy, cuộc đời của Thiên Lương thường càng về hậu vận càng ổn định, càng lớn tuổi càng được nhiều người tín nhiệm và kính trọng.
 Tuy nhiên, sao Thiên Lương ở những cung đặc biệt, đi kèm một ám tinh, sát tinh lại rất dễ biến chất thành con người dâm dục, thậm chí bị phá cách quá nặng nề còn dễ dẫn đến những hành vi lệch lạc như ngoại tình, đồng tính…Mình sẽ trình bày đầy đủ các bộ cách trong phần CHƯ TINH LUẬN sau này.
+
+[Mục lục](../README.md)

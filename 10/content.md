@@ -111,3 +111,5 @@ Lưu ý: Những đặc điểm trên chỉ phản ánh ý nghĩa cơ bản củ
 Đặc biệt, Vũ Khúc rất nhạy với các bộ sao về tài lộc, cô độc tinh và sát tinh. Khi được cát tinh hội hợp, khả năng kinh doanh và tích lũy tài sản sẽ phát huy rất mạnh; ngược lại, nếu bị phá cách thì sự quyết đoán dễ biến thành cố chấp, khả năng quản lý tài chính có thể trở thành tham lợi hoặc buôn gian bán lận. 
 Các bộ cách cụ thể của sao Vũ Khúc sẽ được mình trình bày chi tiết trong phần CHƯ TINH LUẬN sau này.
 Nếu các bạn đọc thấy hay và hữu ích, hãy bình luận và chia sẻ bài viết để lan tỏa kiến thức đến nhiều người hơn. Đây cũng có thể xem như một hình thức bố thí kiến thức – một trong những cách hành thiện và tích đức theo lời dạy của Đức Phật.
+
+[Mục lục](../README.md)

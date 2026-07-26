@@ -158,3 +158,5 @@ Khi mới học, không nên cố gắng ghi nhớ toàn bộ mọi thứ cùng 
 Hãy bắt đầu từ những phần cơ bản nhất, giống như xây một ngôi nhà phải bắt đầu từ nền móng.
 Trong bài tiếp theo, chúng ta sẽ tìm hiểu về hệ thống 14 Chính Tinh – những "nhân vật chính" quyết định phần lớn tính cách và xu hướng cuộc đời của mỗi con người.
 (Còn tiếp...)
+
+[Mục lục](../README.md)

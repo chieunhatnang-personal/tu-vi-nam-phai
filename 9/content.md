@@ -142,3 +142,5 @@ LƯU Ý
 Những tính chất trên chỉ phản ánh ý nghĩa cơ bản của sao Thái Âm khi tọa thủ cung Mệnh. Trong thực tế luận đoán còn phải xét thêm Miếu - Vượng - Đắc - Hãm, các phụ tinh đi kèm, Tuần - Triệt, Tứ Hóa và toàn bộ bố cục lá số mới có thể đưa ra kết luận chính xác.
 Đặc biệt, Thái Âm là chính tinh chịu ảnh hưởng khá rõ bởi thời điểm sinh và vị trí tọa thủ trên lá số (Thái Âm đắc cách khi tọa tại các cung từ Thân đến Sửu, trong đó cung Hợi là vị trí đẹp nhất, được cổ nhân gọi là cách Nguyệt Lãng Thiên Môn, chủ về trí tuệ, tài phú và danh vọng nếu được nhiều cát tinh hội hợp). Thái Âm thường phát huy tốt hơn đối với người sinh vào ban đêm, đặc biệt từ giờ Thân đến giờ Sửu. Ngoài ra, nữ mệnh có Thái Âm sáng sủa cũng thường phát huy đầy đủ những phẩm chất tốt đẹp của chính tinh này hơn nam mệnh.
 Tuy nhiên, đây chỉ là những nguyên tắc tổng quát. Muốn luận đoán chính xác vẫn phải xét toàn bộ bố cục lá số. Các bộ cách của sao Thái Âm tại từng cung, cũng như những bộ sao làm tăng hoặc làm giảm phẩm chất của Thái Âm, mình sẽ trình bày đầy đủ trong phần CHƯ TINH LUẬN sau này.
+
+[Mục lục](../README.md)

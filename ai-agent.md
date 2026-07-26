@@ -29,13 +29,13 @@ Tài liệu này mô tả quy trình cập nhật series **Tử Vi Nam Phái** t
 
 ## Cách tạo tệp nội dung
 
-Đầu mỗi `content.md` phải có:
+Đầu và cuối mỗi `content.md` đều phải có:
 
 ```md
 [Mục lục](../README.md)
 ```
 
-Sau đó là tiêu đề đầy đủ của bài và toàn bộ nội dung chính. Giữ nguyên câu chữ, thứ tự các đoạn và ký hiệu liệt kê của tác giả; chỉ chuẩn hóa Markdown khi cần để dễ đọc.
+Liên kết đầu tệp nằm trước tiêu đề; liên kết cuối tệp nằm sau đoạn nội dung chính cuối cùng. Sau liên kết đầu tệp là tiêu đề đầy đủ của bài và toàn bộ nội dung chính. Giữ nguyên câu chữ, thứ tự các đoạn và ký hiệu liệt kê của tác giả; chỉ chuẩn hóa Markdown khi cần để dễ đọc.
 
 Không sao chép phần kêu gọi tương tác ở cuối bài, thường bắt đầu bằng một đường phân cách rồi đến `P/S`, ví dụ nội dung đề nghị bình luận, chia sẻ hoặc giải thích “pháp thí”.
 
@@ -59,7 +59,7 @@ Không thêm bài vào mục lục nếu chưa có `N/content.md` hoàn chỉnh.
 
 ## Kiểm tra trước khi kết thúc
 
-- Mỗi bài đã ghi có liên kết `[Mục lục](../README.md)` ở đầu.
+- Mỗi bài đã ghi có liên kết `[Mục lục](../README.md)` ở cả đầu và cuối tệp.
 - Không còn phần `P/S` hoặc lời kêu gọi chia sẻ đã được yêu cầu loại bỏ.
 - Mọi ảnh được tham chiếu đều tồn tại và có đúng tên.
 - Mọi liên kết trong `README.md` đều trỏ đến tệp tồn tại.

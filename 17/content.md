@@ -127,3 +127,5 @@ Tinh thần ấy giúp Phá Quân rất dễ thành công trong những môi tr�
 Đặc điểm nổi bật nhất của Phá Quân chính là "trước phá - sau dựng", "khứ cựu lai tân". Tuy nhiên, cũng chính vì quá nóng vội, thiếu kiên nhẫn, hành động theo cảm tính và thường đặt bản thân lên trước nên cuộc đời của Phá Quân hiếm khi bằng phẳng.
 Muốn hiểu đúng một người có Mệnh Phá Quân, tuyệt đối không thể chỉ nhìn vào bản thân chính tinh này mà phải xét đầy đủ Miếu - Vượng - Đắc - Hãm, các chính tinh, phụ tinh hội hợp, Tuần - Triệt, Tứ Hóa cũng như toàn bộ bố cục của lá số.
 Có lẽ vì vậy mà Phá Quân luôn được xem là ngôi sao mang tính biến động mạnh nhất trong hệ thống 14 Chính Tinh. Cuộc đời của họ ít khi bình lặng, nhưng chính những biến động ấy lại là môi trường để Phá Quân trưởng thành, tích lũy kinh nghiệm và từng bước hoàn thiện chính mình.
+
+[Mục lục](../README.md)

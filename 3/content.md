@@ -109,3 +109,5 @@ Qua bài này, chúng ta đã hiểu thêm các yếu tố quan trọng trong c�
 • Cung nào trong lá số là cung Tý, cung Sửu, cung Dần…cung Hợi, các cung đó là hành Kim hay hành Thủy hay hành Mộc…
 Những kiến thức này giúp người học bắt đầu nhìn lá số một cách có hệ thống hơn, thay vì chỉ thấy một “bức hình phức tạp” gồm nhiều ký hiệu rời rạc.
 Trong bài tiếp theo, chúng ta sẽ đi sâu hơn vào cách luận giải cung Mệnh khi có các Chính Tinh khác nhau tọa thủ.
+
+[Mục lục](../README.md)

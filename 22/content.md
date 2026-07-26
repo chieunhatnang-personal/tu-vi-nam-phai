@@ -81,3 +81,5 @@ Qua Huyền Đồ số 2, chúng ta đã tiếp tục làm quen với bốn nhó
 • Cơ Nguyệt Đồng Lương
 Các bạn không cần cố ghi nhớ tất cả ngay từ đầu. Chỉ cần hiểu rằng mỗi Huyền Đồ là một cách sắp xếp khác nhau của 14 chính tinh, từ đó hình thành nên những bộ cách và tên gọi khác nhau. Khi học hết 12 Huyền Đồ, các bạn sẽ nhận ra quy luật lặp lại của các chính tinh và việc ghi nhớ sẽ trở nên rất tự nhiên.
 Ở bài tiếp theo, chúng ta sẽ tiếp tục tìm hiểu các bộ cách trong những Huyền Đồ còn lại.
+
+[Mục lục](../README.md)

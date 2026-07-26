@@ -120,3 +120,5 @@ Như vậy, nhìn tổng thể, Cự Môn là ngôi sao của trí tuệ, khả 
 Nếu đi cùng cát tinh, biết tu dưỡng bản thân và rèn luyện khẩu đức thì đây là một trong những chính tinh có thể đạt thành tựu rất lớn trong xã hội. Các sao cát lành hội tụ nhiều như Ân Quang Thiên Quý, Thiên Quan Thiên Phúc có thể đưa Cự Môn trở thành một bậc chân tu có khả năng nghiên cứu và thuyết giảng về Phật Pháp rất sâu sắc.
 Ngược lại, nếu gặp nhiều sát tinh, lại không biết tiết chế lời nói, đa nghi và cố chấp thì rất dễ tự chuốc lấy thị phi và những mâu thuẫn không đáng có. Cả đời mang thị phi gieo rắc khắp nơi, làm người khác ê đầu ê óc.
 Cự Môn kết hợp với những bộ sao nào thì phát huy được tài hùng biện, khi nào trở thành cách cục đại phú quý, khi nào dễ vướng kiện tụng, thị phi và nên hóa giải ra sao... mình sẽ trình bày chi tiết trong phần CHƯ TINH LUẬN sau này.
+
+[Mục lục](../README.md)

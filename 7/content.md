@@ -140,3 +140,5 @@ Lưu ý: Những tính chất trên chỉ phản ánh ý nghĩa cơ bản của 
 Đặc biệt, Thiên Cơ tượng trưng cho bộ não của con người, do đó rất dễ bị các phụ tinh đánh phá, làm biến đổi tính cách 180 độ, ví dụ, Thiên Cơ gặp Linh Hỏa, Hóa Kỵ dễ nổi nóng mà phá hỏng thế cuộc. Thiên Cơ gặp Đà La thì mưu mô xảo quyệt, lắm hèn kế bẩn. 
 Các trường hợp bộ cách của sao Thiên Cơ sẽ được phân tích đầy đủ trong phần CHƯ TINH LUẬN sau này.
 Ở các bài tiếp theo, chúng ta tiếp tục tìm hiểu các chính tinh còn lại để có cái nhìn tổng quan về tính chất cơ bản và phân biệt sự khác nhau cơ bản giữa các chính tinh đó.
+
+[Mục lục](../README.md)

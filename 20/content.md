@@ -76,3 +76,5 @@ Xã hội không người điều khiển, đầy tranh chấp. Mỗi người �
 Đây cũng là môi trường đầy những kẻ táo bạo, liều lĩnh.
 Trên đây là chu kì qua 12 cung số, thể hiện 12 thời kỳ của Đế Tòa Tử Vi, qua đó, ta hiểu được đạo của trời đất luôn biến hóa, lúc thì chính đạo đắc thời, lúc thì tà đạo đắc thời, nhưng rồi thành bại hư vinh bỗng chốc cũng hóa thành hư không. Ai không hiểu đạo trời rồi cũng phải bị định tội rồi xuống Quỷ Môn Quan.
 Trong các bài tiếp theo, chúng ta sẽ bắt đầu phân tích từng Đồ Hình để tìm hiểu các bộ cách của chính tinh trong Tam Hợp. Mời các bạn tiếp tục đón đọc và nghiên cứu.
+
+[Mục lục](../README.md)

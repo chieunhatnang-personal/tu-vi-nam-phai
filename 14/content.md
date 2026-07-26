@@ -111,3 +111,5 @@ Nhìn chung, người có mệnh Thiên Tướng là mẫu người sống ngay 
 Người mệnh Thiên Tướng là người giàu về đạo đức, tiếp đến là giàu về kiến thức, rồi cuối cùng mới giàu có về mặt kinh tế.
 Người mệnh Thiên Tướng chỉ cần biết cân bằng giữa Lý Trí và Tình Cảm thì cuộc đời sẽ bớt khổ tâm hơn, ít bị người khác lợi dụng tình cảm hơn. Đôi khi quá tình cảm cũng dễ làm cho những người không tốt xung quanh thêm sự ỷ lại và sự vô ơn. Tình cảm, sự hy sinh cần dành cho đúng người.
 Thiên Tướng kết hợp với những bộ sao nào thì phát huy công danh lên vị trí cao nhất, tối kỵ khi gặp những bộ sao nào…mình sẽ trình bày chi tiết trong phần CHƯ TINH LUẬN sau này.
+
+[Mục lục](../README.md)

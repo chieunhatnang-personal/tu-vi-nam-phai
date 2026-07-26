@@ -114,3 +114,5 @@ Nhược điểm lớn:
 • Hay trì hoãn, ít chịu áp lực cao. Thích kiểu vừa làm vừa thảnh thơi hưởng thụ hơn là quá căng thẳng đầu óc hoặc vất vả tay chân.
 Lưu ý: Những đặc điểm trên chỉ phản ánh ý nghĩa cơ bản của sao Thiên Đồng khi tọa thủ cung Mệnh. Khi luận đoán thực tế, cần kết hợp thêm các bộ cách khác nhau của chính tinh, các phụ tinh đi kèm, Tuần - Triệt, Tứ Hóa và toàn bộ bố cục lá số. 
 Có điều đặc biệt khá thú vị ở sao Thiên Đồng chính là vị trí của sao này mang nhiều ý nghĩa tâm linh rất lớn, sau này mình sẽ có bài phân tích chuyên sâu về đề tài này.
+
+[Mục lục](../README.md)

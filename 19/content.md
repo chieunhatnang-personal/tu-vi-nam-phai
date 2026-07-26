@@ -75,3 +75,5 @@ Nếu chỉ biết hưởng mà không biết tạo phúc, tích đức và cố
 Đó cũng là một trong những ý nghĩa sâu sắc của mối quan hệ Phúc Đức - Tài Bạch trong Tử Vi.
 ________________________________________
 Trong bài tiếp theo, chúng ta sẽ tiếp tục tìm hiểu Thập Nhị Huyền Đồ – hệ thống 12 trạng thái của Chính Tinh, một kiến thức vô cùng quan trọng để hiểu vì sao cùng một ngôi sao nhưng khi đứng ở những vị trí khác nhau lại biểu hiện mạnh yếu hoàn toàn khác nhau.
+
+[Mục lục](../README.md)

@@ -179,3 +179,5 @@ Tuy nhiên, cần hiểu rằng không một cung nào tồn tại độc lập.
 Tất cả đều liên hệ với nhau thông qua Tam Hợp, Xung Chiếu, Nhị Hợp và hệ thống sao trong lá số.
 Vì vậy, học Tử Vi không phải là nhìn một cung rồi kết luận cát hung, mà phải hiểu được sự tương tác tổng thể của toàn bộ lá số.
 Trong bài tiếp theo, chúng ta sẽ tìm hiểu về cấu trúc của một lá số Tử Vi và nguyên lý an các Chính Tinh.
+
+[Mục lục](../README.md)

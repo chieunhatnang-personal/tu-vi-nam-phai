@@ -111,3 +111,5 @@ Mỗi bộ tam hợp không chỉ là sự kết hợp của các chính tinh, m
 Ở bài tiếp theo, chúng ta sẽ bắt đầu nghiên cứu ý nghĩa của từng bộ sao đôi. Khi đó, các bạn sẽ hiểu vì sao cùng là sao Tử Vi, nhưng khi đi trong tam hợp Tử Phủ Vũ Tướng thì ý nghĩa lại khác với khi đi trong tam hợp Sát Phá Liêm Tham. Tương tự, cùng là Thiên Cơ, nhưng nếu đi trong bộ Cơ Cự Đồng hay Cơ Nguyệt Đồng Lương thì tính chất và biểu hiện cũng hoàn toàn khác nhau.
 
 Đó cũng chính là nền tảng để bước sang giai đoạn luận giải lá số một cách sâu sắc và chính xác hơn.
+
+[Mục lục](../README.md)

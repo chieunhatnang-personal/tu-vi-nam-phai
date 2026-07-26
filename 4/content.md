@@ -86,3 +86,5 @@ Người mới học Tử Vi nên ghi nhớ trình tự luận giải như trên
 Khi nắm vững trình tự này, việc học các kỹ thuật luận đoán nâng cao sau này sẽ dễ dàng hơn rất nhiều. Bởi vì trong Tử Vi, biết ý nghĩa của các sao chưa chắc đã luận đúng, nhưng biết xem đúng trình tự thì khả năng luận sai sẽ giảm đi rất nhiều.
 Ở các bài sau, chúng ta sẽ đi vào thực chiến để luận chi tiết cung Mệnh, ý nghĩa các sao khi ở cung Mệnh, khi đó mọi người có thể thực hành ngay và luôn mệnh số của bản thân và những người xung quanh.
 Chắc hẵn nhiều bạn đã học qua Tử Vi mà xem bài của mình sẽ nghĩ rằng: "Ơ, mới bài số 5 đã vào thực chiến rồi à? Học vậy là thiếu nền tảng cơ bản quá..v..v.." Tuy nhiên, đây cũng như việc phương pháp dạy võ thuật ngày nay cần khác xưa vậy, nếu như cho bạn đứng tấn, chẻ củi 3 năm rồi mới dạy đòn thế thì ngày thứ 3 bạn đã chạy mất dép rồi...và từ đó rất khó mà lan tỏa kiến thức cho tất cả mọi người cùng tiếp cận.
+
+[Mục lục](../README.md)

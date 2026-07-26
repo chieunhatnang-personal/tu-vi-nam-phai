@@ -98,3 +98,5 @@ ________________________________________
 Bên trên là những tính chất cơ bản của người có sao Tử Vi tọa thủ tại cung Mệnh, nhằm giúp chúng ta có cái nhìn khái quát về ý nghĩa của Chính Tinh này trước khi đi sâu vào các trường hợp phức tạp hơn. 
 Ở bài tiếp theo, chúng ta sẽ tìm hiểu lần lượt các Chính Tinh khác.
 Tuy nhiên, cần lưu ý rằng các đặc tính trên chủ yếu áp dụng cho trường hợp sao Tử Vi không bị phá cách. Nếu Tử Vi gặp nhiều sát tinh, ám tinh hoặc những bộ sao bất lợi thì các tính chất nêu trên có thể biến đổi ít nhiều, thậm chí thay đổi rất lớn. Do đó, không nên vội vàng kết luận chỉ dựa trên một Chính Tinh đơn lẻ khi chưa có kiến thức tổng thể về toàn bộ lá số.
+
+[Mục lục](../README.md)

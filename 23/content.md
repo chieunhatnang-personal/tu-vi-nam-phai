@@ -104,3 +104,5 @@ Qua Huyền Đồ số 3, chúng ta tiếp tục làm quen với hai nhóm bố 
 Việc nắm vững các bộ cách trong từng Huyền Đồ sẽ giúp chúng ta hình thành tư duy nhận diện bố cục lá số nhanh hơn, thay vì phải ghi nhớ từng vị trí chính tinh một cách rời rạc.
 
 Ở bài tiếp theo, chúng ta sẽ tiếp tục nghiên cứu các bộ cách trong những Huyền Đồ còn lại.
+
+[Mục lục](../README.md)
